@@ -1,0 +1,572 @@
+Uri: http://www.marsrovermanipal.com/
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\index.html
+Content Type: text/html
+
+Uri: http://www.marsrovermanipal.com/home.css
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\home.css
+Content Type: text/css
+
+Uri: http://www.marsrovermanipal.com/favicon2.png
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\favicon2.png
+Content Type: image/png
+
+Uri: http://www.marsrovermanipal.com/team.html
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team.html
+Content Type: text/html
+
+Uri: http://www.marsrovermanipal.com/urc.html
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\urc.html
+Content Type: text/html
+
+Uri: http://www.marsrovermanipal.com/urc17.html
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\urc17.html
+Content Type: text/html
+
+Uri: http://www.marsrovermanipal.com/urc16.html
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\urc16.html
+Content Type: text/html
+
+Uri: http://www.marsrovermanipal.com/irc.html
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\irc.html
+Content Type: text/html
+
+Uri: http://www.marsrovermanipal.com/research.html
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\research.html
+Content Type: text/html
+
+Uri: http://www.marsrovermanipal.com/sponsors.html
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors.html
+Content Type: text/html
+
+Uri: http://www.marsrovermanipal.com/whysponsorus.html
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\whysponsorus.html
+Content Type: text/html
+
+Uri: http://www.marsrovermanipal.com/gallery.html
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\gallery.html
+Content Type: text/html
+
+Uri: http://www.marsrovermanipal.com/envelope.png
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\envelope.png
+Content Type: image/png
+
+Uri: http://www.marsrovermanipal.com/phone.png
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\phone.png
+Content Type: image/png
+
+Uri: http://www.marsrovermanipal.com/house.png
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\house.png
+Content Type: image/png
+
+Uri: http://www.marsrovermanipal.com/logo.png
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\logo.png
+Content Type: image/png
+
+Uri: http://www.marsrovermanipal.com/menubuttonblack.png
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\menubuttonblack.png
+Content Type: image/png
+
+Uri: http://www.marsrovermanipal.com/rover-home.png
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\rover-home.png
+Content Type: image/png
+
+Uri: http://www.marsrovermanipal.com/what-it-takes.png
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\what-it-takes.png
+Content Type: image/png
+
+Uri: http://www.marsrovermanipal.com/electronics.png
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\electronics.png
+Content Type: image/png
+
+Uri: http://www.marsrovermanipal.com/mechanical.png
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\mechanical.png
+Content Type: image/png
+
+Uri: http://www.marsrovermanipal.com/sciencecache2.png
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sciencecache2.png
+Content Type: image/png
+
+Uri: http://www.marsrovermanipal.com/management.png
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\management.png
+Content Type: image/png
+
+Uri: http://www.marsrovermanipal.com/research.png
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\research.png
+Content Type: image/png
+
+Uri: http://www.marsrovermanipal.com/news.html
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\news.html
+Content Type: text/html
+
+Uri: http://www.marsrovermanipal.com/tabloid/timesofindia.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\tabloid\timesofindia.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/tabloid/hindu.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\tabloid\hindu.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/tabloid/bmirror2.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\tabloid\bmirror2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/facebooklogo.png
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\facebooklogo.png
+Content Type: image/png
+
+Uri: http://www.marsrovermanipal.com/youtubelogo.png
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\youtubelogo.png
+Content Type: image/png
+
+Uri: http://www.marsrovermanipal.com/instagramlogo2.png
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\instagramlogo2.png
+Content Type: image/png
+
+Uri: http://www.marsrovermanipal.com/linkedinlogo.png
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\linkedinlogo.png
+Content Type: image/png
+
+Uri: http://www.marsrovermanipal.com/script.js
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\script.js
+Content Type: application/javascript
+
+Uri: http://www.marsrovermanipal.com/rsearchbg.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\rsearchbg.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/fonts/republika.ii-exp.ttf
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\fonts\republika.ii-exp.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://www.marsrovermanipal.com/night land terrain-01.png
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\night land terrain-01.png
+Content Type: image/png
+
+Uri: http://www.marsrovermanipal.com/marsstation.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\marsstation.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/ircvenue.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\ircvenue.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/mars-background1.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\mars-background1.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/index.html
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\index-1.html
+Content Type: text/html
+
+Uri: http://www.marsrovermanipal.com/menubuttonwhite.png
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\menubuttonwhite.png
+Content Type: image/png
+
+Uri: http://www.marsrovermanipal.com/team-18/shantam.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-18\shantam.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-18/kulpreet.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-18\kulpreet.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-18/dixit.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-18\dixit.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-18/suriya.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-18\suriya.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-18/joel.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-18\joel.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-18/abhinav.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-18\abhinav.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-18/anush.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-18\anush.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-18/ayush.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-18\ayush.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-18/hardik.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-18\hardik.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-18/sriharsha.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-18\sriharsha.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-18/pavitra.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-18\pavitra.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-18/prakhar.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-18\prakhar.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-18/prathishta.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-18\prathishta.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-18/salman.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-18\salman.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-18/safal.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-18\safal.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-18/sagar.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-18\sagar.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-18/saishyam.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-18\saishyam.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-18/siril.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-18\siril.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-18/tanishq.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-18\tanishq.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-18/tushar.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-18\tushar.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/script2.js
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\script2.js
+Content Type: application/javascript
+
+Uri: http://www.marsrovermanipal.com/rover17.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\rover17.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-16/akhil.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-16\akhil.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-16/srikar.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-16\srikar.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-17/soham.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-17\soham.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-17/aru.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-17\aru.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-17/Jay.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-17\Jay.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-17/Avinash.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-17\Avinash.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-18/darpan.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-18\darpan.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-17/Dhruv.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-17\Dhruv.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-17/Eswar.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-17\Eswar.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-17/Rishav.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-17\Rishav.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-17/ruhi.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-17\ruhi.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-17/Vivek.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-17\Vivek.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-18/vyshnavi.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-18\vyshnavi.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/gallery/urc2016/image5.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\gallery\urc2016\image5.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-16/atharva.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-16\atharva.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-16/aashish.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-16\aashish.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-16/saurabh.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-16\saurabh.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-16/aakash.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-16\aakash.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-16/akshay.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-16\akshay.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-16/prashant.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-16\prashant.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/team-16/vaibhav.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\team-16\vaibhav.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/image/research/image1.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\image\research\image1.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/image/research/image2.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\image\research\image2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/sponsors/mahe.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\mahe.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/sponsors/mouser.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\mouser.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/sponsors/apsl.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\apsl.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/sponsors/stevens.png
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\stevens.png
+Content Type: image/png
+
+Uri: http://www.marsrovermanipal.com/sponsors/nvidia.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\nvidia.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/sponsors/lpsbossard.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\lpsbossard.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/sponsors/hindoostan.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\hindoostan.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/sponsors/wcp.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\wcp.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/sponsors/engineeringbazar.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\engineeringbazar.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/sponsors/adata.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\adata.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/sponsors/regner.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\regner.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/sponsors/pcbpower2.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\pcbpower2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/sponsors/magodlaser.png
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\magodlaser.png
+Content Type: image/png
+
+Uri: http://www.marsrovermanipal.com/sponsors/robocraze.png
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\robocraze.png
+Content Type: image/png
+
+Uri: http://www.marsrovermanipal.com/sponsors/robu.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\robu.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/sponsors/admadyne.png
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\admadyne.png
+Content Type: image/png
+
+Uri: http://www.marsrovermanipal.com/sponsors/makein3d.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\makein3d.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/sponsors/cytron.png
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\cytron.png
+Content Type: image/png
+
+Uri: http://www.marsrovermanipal.com/sponsors/coolermaster2.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\coolermaster2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/sponsors/beehive.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\beehive.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/sponsors/gigabyte.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\gigabyte.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/sponsors/pranit.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\pranit.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/sponsors/atul.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\atul.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/sponsors/wasp.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\wasp.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/sponsors/mgsuperlab.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\mgsuperlab.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/sponsors/hitech.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\hitech.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/sponsors/protocase.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\protocase.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/sponsors/thingbits.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\thingbits.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/sponsors/tanotis.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\tanotis.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/sponsors/iam.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\sponsors\iam.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/image/whysponsorus/image3.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\image\whysponsorus\image3.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/image/whysponsorus/2image.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\image\whysponsorus\2image.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/brochure.pdf
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\brochure.pdf
+Content Type: application/pdf
+
+Uri: http://www.marsrovermanipal.com/gallery/irc/image2.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\gallery\irc\image2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/gallery/irc/image3.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\gallery\irc\image3.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/gallery/irc/image4.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\gallery\irc\image4.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/gallery/irc/image5.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\gallery\irc\image5.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/gallery/urc2017/image1.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\gallery\urc2017\image1.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/gallery/urc2017/image2.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\gallery\urc2017\image2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/gallery/urc2017/image3.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\gallery\urc2017\image3.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/gallery/urc2017/image4.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\gallery\urc2017\image4.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/gallery/urc2017/image5.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\gallery\urc2017\image5.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/gallery/urc2016/image1.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\gallery\urc2016\image1.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/gallery/urc2016/image2.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\gallery\urc2016\image2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/gallery/urc2016/image3.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\gallery\urc2016\image3.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/gallery/urc2016/image4.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\gallery\urc2016\image4.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/gallery/testing/image1.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\gallery\testing\image1.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/gallery/testing/image2.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\gallery\testing\image2.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/gallery/testing/image3.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\gallery\testing\image3.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/gallery/testing/image4.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\gallery\testing\image4.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/gallery/testing/image5.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\gallery\testing\image5.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/newsletter.png
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\newsletter.png
+Content Type: image/png
+
+Uri: http://www.marsrovermanipal.com/newsletter.pdf
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\newsletter.pdf
+Content Type: application/pdf
+
+Uri: http://www.marsrovermanipal.com/galleryscript.js
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\galleryscript.js
+Content Type: application/javascript
+
+Uri: http://www.marsrovermanipal.com/tabloid/wowqs.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\tabloid\wowqs.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/tabloid/bmirror1.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\tabloid\bmirror1.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.marsrovermanipal.com/tabloid/bmirror3.jpg
+File Name: c:\Downloaded Web Sites\www.marsrovermanipal.com\tabloid\bmirror3.jpeg
+Content Type: image/jpeg
+
